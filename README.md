@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nayara!
 
-Machine Learning and Information Security enthusiast -but learning everything I can!
+Data Science and Machine Learning enthusiast -but learning everything I can!
 <!--
 **NayaraDornelaas/NayaraDornelaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
